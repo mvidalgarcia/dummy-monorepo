@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 0.1.2 (2023-09-07)
+
+
+### Bug Fixes
+
+* **c:** add readme title ([ba426d6](https://github.com/mvidalgarcia/dummy-monorepo/commit/ba426d6c2d58f08be5716985e24811d682a1b4d8))
+
+
+
+
+
 ## 0.1.1 (2023-09-07)
 
 
