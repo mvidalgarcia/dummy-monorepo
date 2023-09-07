@@ -24,6 +24,7 @@ jobs:
           SLACK_TOKEN: ${{ secrets.SLACK_TOKEN }}
           SLACK_API_POST_RELEASE_MESSAGE: ${{ secrets.SLACK_API_POST_RELEASE_MESSAGE }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
         run: |
           echo "hello publish job!"
           yarn publish-packages
