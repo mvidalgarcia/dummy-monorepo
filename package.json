@@ -1,0 +1,19 @@
+{
+  "name": "root",
+  "private": true,
+  "scripts": {
+    "publish-packages": "zx scripts/publish.mjs"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@lerna/project": "^6.4.1",
+    "@commitlint/cli": "^17.0.3",
+    "@commitlint/config-conventional": "^17.0.3",
+    "conventional-changelog": "^3.1.24",
+    "dotenv-safe": "^8.2.0",
+    "husky": "^6.0.0",
+    "lerna": "^7.2.0",
+    "slackify-markdown": "^4.3.1",
+    "zx": "^7.0.7"
+  }
+}
