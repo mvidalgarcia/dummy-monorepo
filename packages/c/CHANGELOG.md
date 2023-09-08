@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.0.0](https://github.com/mvidalgarcia/dummy-monorepo/compare/@mvidalgarcia/c@1.0.0...@mvidalgarcia/c@2.0.0) (2023-09-08)
+
+
+### Bug Fixes
+
+* **c:** breaking change ([489f4ba](https://github.com/mvidalgarcia/dummy-monorepo/commit/489f4ba0d1925e0a224fa02477a6296f87e27d51))
+
+
+### BREAKING CHANGES
+
+* **c:** Test
+
+
+
+
+
 # [1.0.0](https://github.com/mvidalgarcia/dummy-monorepo/compare/@mvidalgarcia/c@0.1.2...@mvidalgarcia/c@1.0.0) (2023-09-08)
 
 
