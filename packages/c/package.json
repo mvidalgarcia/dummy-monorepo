@@ -1,6 +1,6 @@
 {
   "name": "@mvidalgarcia/c",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "description": "Package C",
   "main": "index.js",
   "license": "MIT",

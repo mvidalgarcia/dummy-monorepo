@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.0.0](https://github.com/mvidalgarcia/dummy-monorepo/compare/@mvidalgarcia/c@0.1.2...@mvidalgarcia/c@1.0.0) (2023-09-08)
+
+
+### chore
+
+* **c:** modify readme and simulate BC ([51d57cf](https://github.com/mvidalgarcia/dummy-monorepo/commit/51d57cfbd3b123462d3f60dcfd34646028a59610))
+
+
+### BREAKING CHANGES
+
+* **c:** this is a test to verify that `lerna publish` works as expected.
+
+
+
+
+
 ## 0.1.2 (2023-09-07)
 
 
