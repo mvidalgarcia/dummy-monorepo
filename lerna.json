@@ -12,6 +12,7 @@
       "conventionalCommits": true
     },
     "publish": {
+      "conventionalCommits": true,
       "allowBranch": "master"
     }
   }
