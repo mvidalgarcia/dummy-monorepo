@@ -1,3 +1,3 @@
 # @mvidalgarcia/b
 
-Hello b
+Hello b!
