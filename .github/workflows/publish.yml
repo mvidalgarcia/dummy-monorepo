@@ -14,8 +14,6 @@ jobs:
           fetch-depth: 0
 
       - name: Node
-        env:
-          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
         uses: ./.github/actions/node
 
       - name: Setup git config
