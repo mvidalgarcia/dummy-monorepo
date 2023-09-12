@@ -30,4 +30,8 @@ jobs:
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
+          echo "scope=@mvidalgarcia" > ~/.npmrc
+          echo "access=public" >> ~/.npmrc
+          echo "//registry.npmjs.org/:_authToken=$NPM_TOKEN" >> ~/.npmrc
+          echo "//registry.npmjs.org/:always-auth=true" >> ~/.npmrc
           yarn publish-packages
